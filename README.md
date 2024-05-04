@@ -1,1 +1,3 @@
 # DANNY-DINER-DATA-SQL
+
+The SQL project constitutes a comprehensive analysis of transactional data from Danny's Diner, a fictional restaurant, focusing on customer behavior, menu popularity, and loyalty program dynamics. The code implements a series of queries to answer specific business questions, including total customer spending, visit frequency, first purchases, popular menu items, and member-specific analytics. It also addresses the dynamics of a loyalty program, calculating points earned based on spending, with variations for sushi purchases and promotional periods. This SQL script serves as a valuable resource for understanding customer engagement and informing strategic decisions within Danny's Diner.
